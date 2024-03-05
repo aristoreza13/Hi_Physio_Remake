@@ -1,16 +1,7 @@
-# hiphysio
+# Hi-Physio (Remake)
 
-A new Flutter project.
+Hi-Physio adalah aplikasi untuk menemukan terapis terdekat disekitar kalian. Project ini pernah diinisiasi pada tahun 2021.
+Repo ini berisikan progress dalam daur ulang (remake) aplikasi tersebut, dengan pendekatan dan desain yang berbeda
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Selasa, 5 Maret 2024
+Inisiasi awal project dan membuat halaman welcome / landing page
